@@ -28,6 +28,7 @@
 - Compatible with PHP 5.5 and later, including PHP 8.2
 - Namespaced to prevent name clashes
 - Much more!
+- This is another test edit
 
 ## Why you might need it
 Many PHP developers need to send email from their code. The only PHP function that supports this directly is [`mail()`](https://www.php.net/manual/en/function.mail.php). However, it does not provide any assistance for making use of popular features such as encryption, authentication, HTML messages, and attachments.
